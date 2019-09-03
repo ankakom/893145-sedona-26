@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Anna Komarovska](https://up.htmlacademy.ru/htmlcss/26/user/893145).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Кравченко](https://htmlacademy.ru/profile/id13921).
 
 ---
 
