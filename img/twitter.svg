@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="48px" viewBox="0 0 46 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="0" width="46" height="48" id="rect-1"></rect>
+    </defs>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Index" transform="translate(-564.000000, -2678.000000)">
+            <g id="footer" transform="translate(40.000000, 2642.000000)">
+                <g id="Group" transform="translate(524.000000, 36.000000)">
+                    <g id="Layer-52-copy">
+                        <image x="0" y="0" width="46" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAwCAYAAABuZUjcAAABc2lDQ1BJQ0MgUHJvZmlsZQAAKJF9kE0rRGEUx38zyNuIsJAsbhlWiFHCyoyFlIXGKG+bO9e8qJnrducK2SobiykLsfG28AXEVlkrRaRk4xsQG+k6j0vjpZw6z//Xec45z3kO+IO6ZWWKOyFrOnZ0KKJNTE5ppQ+UU0OtnP26kbPCo6MjiH3pT3u5xqf0sl31+nv/r1XOJnIG+MqEewzLdoQHhJsXHUvxrHC9LUMJLylOebyuOO7x7kdOLDoofCSsGWld6nxXwm1G2s6CX70VjH/LSX3jbGbB+JxH/SSQMMfHRBvFm8gRZYgIGnEWmCODQ7uoCU5iyVFFg/PWsj2XSjtaWDaQ0IZNo6NNC3V29YHa5+89FWLzMnvvMxTlC7H4JpysQcNtIRbcgepVOD6zdFv/CBWJ+5NJeDyEqkmou4CK6VyyO+T9JBCBknvXfWqB0g14y7vu657rvu1L8R2cmt5uPntxcAOxFRg5h61taJXe1TPvtQlnW5gRUKcAAACbSURBVGgF7dLRCYAwFMVQFfffVEeo1g3yEYRC/A6Xx6n7GOPaFvz2efiz4N3bseLR380d/vfLJZ44FOhXgVBalrhGCYcSh1BalrhGCYcSh1BalrhGCYcSh1BalrhGCYcSh1BalrhGCYcSh1BalrhGCYcSh1BalrhGCYcSh1BalrhGCYcSh1BalrhGCYcSh1Batqz4OQlujeHHoRdzIwkvAdQMiwAAAABJRU5ErkJggg=="></image>
+                        <use fill="#81B3D2" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                    </g>
+                    <g id="twitter" transform="translate(15.000000, 16.000000)" fill="#FFFFFF">
+                        <g id="Shape">
+                            <path d="M10.95,1.144 C12.635,0.648 13.934,1.414 14.527,2.323 C15.2,2.092 15.858,1.842 16.538,1.615 C16.5248923,2.3013655 16.2116836,2.94751829 15.681,3.383 C16.366,3.553 16.985,2.892 16.985,2.892 C16.816,3.892 15.979,4.68 15.422,4.916 C15.191,11.666 12.247,16.133 5.345,15.998 L4.899,15.998 C4.489,15.998 0.735,15.538 0.001,14.111 C2.272,14.307 3.894,13.689 4.694,12.934 C3.734,12.634 2.015,12.457 1.715,9.984 C2.064,10.09 2.279,10.212 2.905,10.103 C1.705,9.247 0.374,8.53 0.448,6.33 C0.733,6.658 1.515,6.866 1.788,6.802 C1.085,6.561 -0.182,3.442 0.894,1.85 C2.712,3.704 4.629,5.456 8.046,5.623 C8.254,3.33 9.183,1.793 10.95,1.144 Z" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
